@@ -1,0 +1,1 @@
+gonna make an website and this is the readme for git. my first time!
